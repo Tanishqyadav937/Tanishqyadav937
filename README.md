@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Yadav</h1>
+<h3 align="center">A passionate data science enthusiast from India</h3>
 
-
-<div align="center">
-  <img src="https://c.tenor.com/2fXBN9Xg0fcAAAAC/tenor.gif" alt="Anime Coding" width="400"/>
-</div>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tanishqyadav937&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqyadav937" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqyadav937&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqyadav937" /> </p>
 
 - 🔭 I’m currently working on **Data Science projects**
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
@@ -36,73 +30,9 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
 </p>
 
-## 📊 GitHub Stats
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqyadav937&show_icons=true&locale=en&layout=compact" alt="tanishqyadav937" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishqyadav937&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqyadav937&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="38%" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqyadav937&show_icons=true&locale=en" alt="tanishqyadav937" /></p>
 
-
-
-<div align="center">
-  <img src="YOUR-IMAGE-URL-HERE" alt="Anime" width="400"/>
-  <!-- Keep your existing anime GIFs below -->
-  <img src="https://c.tenor.com/8QjJw1A7C6AAAAAC/tenor.gif" alt="Anime Study" width="300"/>
-  <!-- ... rest of your images ... -->
-</div>
-## 📌 My Projects
-
-<div align="center">
-  <h4>🚀 What I'm Building 🚀</h4>
-  
-  | Project | Language | Description |
-  |---------|----------|-------------|
-  | **INDIAN CARBON REGISTRY** | TypeScript | Carbon registry prototype |
-  | **UND MAP** | Python | Geospatial AI Dashboard |
-  | **CHATBOT** | Python | AI chatbot project |
-  | **E-COMMERCE SALES ANALYSIS** | Python | Latest project (Mar 2026) |
-  | **AI STOCK PREDICTION** | Python | Stock market prediction |
-  | **FAKE NEWS DETECTION** | Java | News verification system |
-  | **SCIENTIFIC CALCULATOR** | JavaScript | Advanced calculator |
-
-</div>
-
-## 🎯 Quick Stats
-
-<div align="center">
-
-| 📦 Repos | ⭐ Stars | 👥 Followers | 🔄 Following |
-|----------|----------|--------------|--------------|
-| 17 | 11 | 4 | 8 |
-
-</div>
-
-## 🏆 Achievement Unlocked
-
-<div align="center">
-  <img src="https://media.tenor.com/0EDLU2UzRmkAAAAi/achievement.gif" alt="Achievement" width="100"/>
-  <h3>🏅 PULL SHARK</h3>
-  <p>First PR opened on March 13, 2026</p>
-</div>
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-  <img src="https://c.tenor.com/L4rBOPpO-jIAAAAC/tenor.gif" alt="Anime Relax" width="250"/>
-  <img src="https://c.tenor.com/UXFkY7H9BQcAAAAC/tenor.gif" alt="Anime Gaming" width="250"/>
-</div>
-
----
-
-<div align="center">
-  
-### 💻 Latest Work: [ecommerce-sales-analysis](https://github.com/Tanishqyadav937/ecommerce-sales-analysis)
-
-<img src="https://c.tenor.com/IH7s2HrQ0IkAAAAC/tenor.gif" alt="Working" width="50" /> 
-
-**⚡ "Turning data into insights, one line at a time" ⚡**
-
-⭐️ **Tanishq Yadav**
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqyadav937&" alt="tanishqyadav937" /></p>
