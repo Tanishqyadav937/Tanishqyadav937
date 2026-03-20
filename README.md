@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanishq Yadav</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqyadav937&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqyadav937" /> </p>
+<div align="center">
+  <img src="https://c.tenor.com/2fXBN9Xg0fcAAAAC/tenor.gif" alt="Anime Coding" width="400"/>
+</div>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tanishqyadav937&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqyadav937" /> 
+</p>
 
 - 🔭 I’m currently working on **Data Science projects**
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
@@ -37,47 +43,68 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqyadav937&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="38%" />
 </div>
 
-## 📈 Contribution Graph
+## 🎨 Anime Corner
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tanishqyadav937&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://c.tenor.com/8QjJw1A7C6AAAAAC/tenor.gif" alt="Anime Study" width="300"/>
+  <img src="https://c.tenor.com/Rfyx9OkRI3gAAAAC/tenor.gif" alt="Anime Coding" width="300"/>
+  <br/>
+  <img src="https://c.tenor.com/PnbKJ7oGJ1IAAAAC/tenor.gif" alt="Anime Work" width="300"/>
+  <img src="https://c.tenor.com/8cVdAkFSH_UAAAAC/tenor.gif" alt="Anime Happy" width="300"/>
 </div>
 
-## 🏆 GitHub Achievements
+## 📌 My Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishqyadav937&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <h4>🚀 What I'm Building 🚀</h4>
+  
+  | Project | Language | Description |
+  |---------|----------|-------------|
+  | **INDIAN CARBON REGISTRY** | TypeScript | Carbon registry prototype |
+  | **UND MAP** | Python | Geospatial AI Dashboard |
+  | **CHATBOT** | Python | AI chatbot project |
+  | **E-COMMERCE SALES ANALYSIS** | Python | Latest project (Mar 2026) |
+  | **AI STOCK PREDICTION** | Python | Stock market prediction |
+  | **FAKE NEWS DETECTION** | Java | News verification system |
+  | **SCIENTIFIC CALCULATOR** | JavaScript | Advanced calculator |
+
 </div>
 
-## 📌 Pinned Repositories
+## 🎯 Quick Stats
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanishqyadav937&repo=your-repo-1&theme=radical)](https://github.com/tanishqyadav937/your-repo-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanishqyadav937&repo=your-repo-2&theme=radical)](https://github.com/tanishqyadav937/your-repo-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanishqyadav937&repo=your-repo-3&theme=radical)](https://github.com/tanishqyadav937/your-repo-3)
+| 📦 Repos | ⭐ Stars | 👥 Followers | 🔄 Following |
+|----------|----------|--------------|--------------|
+| 17 | 11 | 4 | 8 |
 
 </div>
 
-## 🎯 Current Stats
+## 🏆 Achievement Unlocked
 
 <div align="center">
+  <img src="https://media.tenor.com/0EDLU2UzRmkAAAAi/achievement.gif" alt="Achievement" width="100"/>
+  <h3>🏅 PULL SHARK</h3>
+  <p>First PR opened on March 13, 2026</p>
+</div>
 
-| Metric | Value |
-|--------|-------|
-| 📦 Repositories | [Add count] |
-| ⭐ Total Stars | [Add count] |
-| 👥 Followers | [Add count] |
-| 🔄 Following | [Add count] |
+## 🎮 When I'm Not Coding
 
+<div align="center">
+  <img src="https://c.tenor.com/L4rBOPpO-jIAAAAC/tenor.gif" alt="Anime Relax" width="250"/>
+  <img src="https://c.tenor.com/UXFkY7H9BQcAAAAC/tenor.gif" alt="Anime Gaming" width="250"/>
 </div>
 
 ---
 
 <div align="center">
   
-### 💻 Check out my projects below! 👇
+### 💻 Latest Work: [ecommerce-sales-analysis](https://github.com/Tanishqyadav937/ecommerce-sales-analysis)
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Working" width="30" /> **Always coding, always learning**
+<img src="https://c.tenor.com/IH7s2HrQ0IkAAAAC/tenor.gif" alt="Working" width="50" /> 
+
+**⚡ "Turning data into insights, one line at a time" ⚡**
+
+⭐️ **Tanishq Yadav**
 
 </div>
