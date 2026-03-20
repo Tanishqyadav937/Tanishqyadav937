@@ -30,9 +30,54 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqyadav937&show_icons=true&locale=en&layout=compact" alt="tanishqyadav937" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqyadav937&show_icons=true&locale=en" alt="tanishqyadav937" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishqyadav937&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqyadav937&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="38%" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqyadav937&" alt="tanishqyadav937" /></p>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tanishqyadav937&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanishqyadav937&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanishqyadav937&repo=your-repo-1&theme=radical)](https://github.com/tanishqyadav937/your-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanishqyadav937&repo=your-repo-2&theme=radical)](https://github.com/tanishqyadav937/your-repo-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanishqyadav937&repo=your-repo-3&theme=radical)](https://github.com/tanishqyadav937/your-repo-3)
+
+</div>
+
+## 🎯 Current Stats
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 📦 Repositories | [Add count] |
+| ⭐ Total Stars | [Add count] |
+| 👥 Followers | [Add count] |
+| 🔄 Following | [Add count] |
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💻 Check out my projects below! 👇
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Working" width="30" /> **Always coding, always learning**
+
+</div>
