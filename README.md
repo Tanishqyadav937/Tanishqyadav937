@@ -43,16 +43,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqyadav937&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="38%" />
 </div>
 
-## 🎨 Anime Corner
+
 
 <div align="center">
+  <img src="YOUR-IMAGE-URL-HERE" alt="Anime" width="400"/>
+  <!-- Keep your existing anime GIFs below -->
   <img src="https://c.tenor.com/8QjJw1A7C6AAAAAC/tenor.gif" alt="Anime Study" width="300"/>
-  <img src="https://c.tenor.com/Rfyx9OkRI3gAAAAC/tenor.gif" alt="Anime Coding" width="300"/>
-  <br/>
-  <img src="https://c.tenor.com/PnbKJ7oGJ1IAAAAC/tenor.gif" alt="Anime Work" width="300"/>
-  <img src="https://c.tenor.com/8cVdAkFSH_UAAAAC/tenor.gif" alt="Anime Happy" width="300"/>
+  <!-- ... rest of your images ... -->
 </div>
-
 ## 📌 My Projects
 
 <div align="center">
