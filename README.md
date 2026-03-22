@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **ML/AI projects**
 - 🤝 I’m looking for help with **Advanced ML algorithms**
 - 💬 Ask me about **Python, Data Analysis, SQL**
-- 📫 How to reach me: **tanishq.yadav@email.com**
+- 📫 How to reach me: **tanishqyadav937@email.com**
 - ⚡ Fun fact: **I love turning data into insights**
 
 <h3 align="left">Connect with me:</h3>
