@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishq Yadav</h1>
+<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=LIVE+THE+LIFE+MOST+OUT+IT)](https://git.io/typing-svg)</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqyadav937&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqyadav937" /> </p>
