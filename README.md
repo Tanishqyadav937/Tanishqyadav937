@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanishqyadav937&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tanishqyadav937?label=Followers&style=for-the-badge&logo=github&color=6a11cb" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Tanishqyadav937&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Tanishqyadav937?label=Followers&style=for-the-badge&logo=github&color=6a11cb" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20ML%2FData%20Collabs-brightgreen?style=for-the-badge&logo=github" alt="Collaboration Status" />
 </p>
 
@@ -116,31 +116,31 @@ A 3D-avatar voice assistant that helps with everyday tasks using speech and lang
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanishqyadav937&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqyadav937&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Tanishqyadav937&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tanishqyadav937&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanishqyadav937&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Tanishqyadav937&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishqyadav937&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-zeta.vercel.app/?username=Tanishqyadav937&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqyadav937&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=Tanishqyadav937&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanishqyadav937/tanishqyadav937/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanishqyadav937/tanishqyadav937/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/tanishqyadav937/tanishqyadav937/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishqyadav937/Tanishqyadav937/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishqyadav937/Tanishqyadav937/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Tanishqyadav937/Tanishqyadav937/output/github-snake-dark.svg" />
   </picture>
 </p>
 
